@@ -88,5 +88,4 @@ sim.and.opt(FOI=FOI., truegamma=truegamma., pops=pops., Nref=Nref., ks=ks., init
 
 end_time <- Sys.time(); end_time - start_time
 
-
-Jeremy
+b
